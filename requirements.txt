@@ -1,0 +1,13 @@
+streamlit>=1.24.0
+langchain 
+langchain-google-vertexai 
+langchain-pinecone 
+alpha-vantage 
+pinecone 
+pydantic>=2.7.4,<3.0.0
+python-dotenv
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
